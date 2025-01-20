@@ -1,7 +1,8 @@
 html{
     background-color: aliceblue;
-    font-size: larger;
-    
+    font-size: large;
+    text-align: 75%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
@@ -30,14 +31,4 @@ a:link{
 #lines{
     font-family: monospace;
     text-align: justify;
-}
-
-#aminoacid, #aminoacid th, #aminoacid td{
-    border-collapse: collapse;
-    border: 1px solid black;
-}
-
-#biosynthesis{
-    font-family: monospace;
-    font-size: larger;
 }
