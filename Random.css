@@ -1,0 +1,43 @@
+html{
+    background-color: aliceblue;
+    font-size: larger;
+    
+}
+
+h1{
+    color:#ffffff;
+    font-size: 60px;
+    text-align: center;
+    background-color: skyblue;
+    shape-margin: 60px;
+    text-shadow: 5px 5px 5px blue;
+}
+
+h2{
+    font-size: 40px;
+}
+
+nav table,nav td,nav th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color:rgb(214, 236, 255)
+}
+
+a:link{
+    color:blue;
+}
+
+#lines{
+    font-family: monospace;
+    text-align: justify;
+}
+
+#aminoacid, #aminoacid th, #aminoacid td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+#biosynthesis{
+    font-family: monospace;
+    font-size: larger;
+}
